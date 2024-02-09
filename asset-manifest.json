@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prashanth-reddy/static/css/main.f855e6bc.css",
+    "main.js": "/prashanth-reddy/static/js/main.30eeeeb3.js",
+    "static/js/592.0ecbf02e.chunk.js": "/prashanth-reddy/static/js/592.0ecbf02e.chunk.js",
+    "static/media/logo.svg": "/prashanth-reddy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prashanth-reddy/index.html",
+    "main.f855e6bc.css.map": "/prashanth-reddy/static/css/main.f855e6bc.css.map",
+    "main.30eeeeb3.js.map": "/prashanth-reddy/static/js/main.30eeeeb3.js.map",
+    "592.0ecbf02e.chunk.js.map": "/prashanth-reddy/static/js/592.0ecbf02e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.30eeeeb3.js"
+  ]
+}
